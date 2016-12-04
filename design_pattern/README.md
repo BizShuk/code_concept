@@ -1,8 +1,14 @@
 # Design Pattern
+[12factor](http://12factor.net/)
+
 
 ### js
 - curry , simular closure callback function [HERE](curry.js)
 
+
+### reference
+- [Design Pattern](https://sourcemaking.com/design_patterns)
+- [js Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#observerpatternjavascript)
 
 
 # Module
