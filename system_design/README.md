@@ -10,7 +10,7 @@
 ### list
 - [Cache](cache.md)
 - [Dead Code Elimination](https://en.wikipedia.org/wiki/Dead_code_elimination)
-
+- [Concepts & Terms](concept.md)
 
 
 

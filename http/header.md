@@ -40,13 +40,6 @@
     + SAMEORIGIN
     + ALLOW-FROM [uri]
 
-### html link tag
-- browser tab icon , `<link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico" type="image/x-icon">`
-- prefetch domain name , `<link rel="dns-prefetch" href="//fonts.googleapis.com">`
-
-
-
-
 
 ### Cache
 [ ]check flow

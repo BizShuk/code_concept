@@ -1,4 +1,6 @@
 # HTML
+
+
 ### what's going on when you type url in browser?
 domain name will look up on dns server to get host ip , and send this request to the host.
 
